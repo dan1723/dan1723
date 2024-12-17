@@ -17,6 +17,8 @@
   - 🎯 Objetivo profissional: fazer uma transição de carreira e trabalhar com programação    
 </p>
 
+<br>
+
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
@@ -32,7 +34,17 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danilo_f_gomes/profilecard/?igsh=bXhiem9qcHJ2Zmcw)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-fernandes-67242b1a7/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19jfGDGK7T/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dan.gomes1723@gmail.com)
 
 
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=dan1723&show_icons=true&theme=gotham)
+
+## Portfolio:
+- [Sistema de Vendas](https://github.com/dan1723/Sistema-de-Vendas-Web)
+
+
+  <!-- GIF -->
+<p align="left">
+  <img align="center" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fjuanpjimenezm.wixsite.com%2Ftecn%2Fcopia-de-primer-periodo-1&psig=AOvVaw39AUr44HnkoZGtKIDaY_J5&ust=1734528603029000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjy6tv0rooDFQAAAAAdAAAAABAq" alt="Imagem">
+</p>
 
