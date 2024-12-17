@@ -14,7 +14,7 @@
 
   - 👨‍💼 Atualmente trabalho com monitoramento de rodovias
 
-  - 🎯 Objetivo profissional: fazer uma transição de carreira e trabalhar com programação    
+  - 🎯 Objetivo profissional: fazer uma transição de carreira para trabalhar na área da programação    
 </p>
 
 <br>
