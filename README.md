@@ -44,7 +44,27 @@
 
 
   <!-- GIF -->
-<p align="left">
-  <img align="center" src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fjuanpjimenezm.wixsite.com%2Ftecn%2Fcopia-de-primer-periodo-1&psig=AOvVaw39AUr44HnkoZGtKIDaY_J5&ust=1734528603029000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjy6tv0rooDFQAAAAAdAAAAABAq" alt="Imagem">
-</p>
+  ![97b295_343224e0b87544f6b1e301fabbe07d6e~mv2](https://github.com/user-attachments/assets/a3310bf0-f169-4b95-b354-45c09d6c220d)
+
+<br>
+<h3>🔥 Habilidades</h3> 
+<!-- Habilidades: Linguagens de programação -->
+  <div style="flex-basis: 48%;">
+    <h3>Linguagens de programação, marcação de texto e estilização</h3>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="C#" height="30" width="40" src="https://github.com/user-attachments/assets/2aa78906-f080-44f9-b8b0-ec63c7559299">
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Ferramentas e Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  </div>
+  
+
 
