@@ -41,6 +41,7 @@
 
 ## Portfolio:
 - [Sistema de Vendas](https://github.com/dan1723/Sistema-de-Vendas-Web)
+- [Analisador Numérico](https://github.com/dan1723/Analizador-de-Numeros/tree/main)
 
 
   <!-- GIF -->
