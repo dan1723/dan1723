@@ -10,7 +10,7 @@
 <p>
   <h2> Eu sou Danilo Fernandes, estudante de Analise e Desenvolvimento de Sistema 👨‍💻</h2>
 
-  - 🔭 Atualmente meus estudos pessoais estão sendo: Javascript , Html, CSS e C#
+  - 🔭 Atualmente meus estudos pessoais estão sendo: Javascript , Html, CSS
 
   - 👨‍💼 Atualmente trabalho com monitoramento de rodovias
 
