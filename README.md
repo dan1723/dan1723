@@ -43,6 +43,7 @@
 - [Sistema de Vendas](https://github.com/dan1723/Sistema-de-Vendas-Web)
 - [Analisador Numérico](https://github.com/dan1723/Analizador-de-Numeros/tree/main)
 - [SSD - Um Estudo Sobre Visão Computacional](https://github.com/dan1723/SSD-Visao-Computacional)
+- [Criação de um Site Institucional para Departamento do Turismo](https://github.com/dan1723/site-turismo.git)
 
 
   <!-- GIF -->
