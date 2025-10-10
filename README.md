@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <h3>Tecnólogo em Análise e Desenvolvimento de Sistemas | Desenvolvedor Web Jr. (PJ) 👨‍💻</h3>
+  <h3>Tecnólogo em Análise e Desenvolvimento de Sistemas | Desenvolvedor Web Jr. e Suporte Técnico TI 👨‍💻</h3>
 </p>
 
 ---
