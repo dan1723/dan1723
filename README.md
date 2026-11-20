@@ -27,34 +27,40 @@ Atendo Promissão e região pessoalmente e faço sites e sistemas para todo o Br
 | **Aplicativos** | Apps para empresas e instituições, com a identidade de cada cliente. |
 | **Suporte de TI** | Formatação, upgrade de notebooks (SSD e memória) e configuração de computadores. |
 
-## Projetos em destaque
+## Projetos para clientes
+
+Cada case mostra as telas, o problema que o sistema resolve e as decisões do projeto. O código dos clientes fica privado.
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/dan1723/case-dn-cestas-doces"><img src="img/card-dn-cestas.jpg" alt="Case DN Cestas & Doces"></a>
+      <h3><a href="https://github.com/dan1723/case-dn-cestas-doces">Delivery próprio para confeitaria</a></h3>
+      Projeto real, no ar: cardápio online, pedidos sem comissão e painel com aviso sonoro de pedido novo. <a href="https://dn-cestas-doces.vercel.app">Ver a loja</a>.
+      <br><br><code>JavaScript</code> <code>Node.js</code> <code>Supabase</code>
+    </td>
     <td width="50%" valign="top">
       <a href="https://github.com/dan1723/case-rota-motos"><img src="img/card-rota-motos.jpg" alt="Case Rota Motos"></a>
       <h3><a href="https://github.com/dan1723/case-rota-motos">Sistema para revenda de motos e oficina</a></h3>
       Estoque, avaliação, vendas, RENAVE e oficina em um só lugar. Case com nome fictício e <a href="https://dan1723.github.io/case-rota-motos/demo/">demonstração online</a>.
       <br><br><code>React</code> <code>TypeScript</code> <code>Tailwind</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/dan1723/techsolution-links"><img src="img/links.jpg" alt="Página de links da TechSolution"></a>
       <h3><a href="https://github.com/dan1723/techsolution-links">Página de links da TechSolution</a></h3>
       A página da bio do Instagram, feita do zero, sem Linktree: rápida, leve e com a identidade da marca. <a href="https://techsolution-links.vercel.app">Ver no ar</a>.
       <br><br><code>HTML</code> <code>CSS</code> <code>Vercel</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/dan1723/Sistema-de-Vendas-Web">Sistema de Vendas Web</a></h3>
-      Gestão de departamentos, vendedores e vendas, com relatórios de desempenho (totais, somas e médias).
-      <br><br><code>C#</code> <code>ASP.NET Core MVC</code> <code>Entity Framework</code>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/dan1723/case-dn-cestas-doces"><img src="img/card-dn-cestas.jpg" alt="Case DN Cestas & Doces"></a>
-      <h3><a href="https://github.com/dan1723/case-dn-cestas-doces">Delivery próprio para confeitaria</a></h3>
-      Projeto real, no ar: cardápio online, pedidos sem comissão e painel com aviso sonoro de pedido novo. <a href="https://dn-cestas-doces.vercel.app">Ver a loja</a>.
-      <br><br><code>JavaScript</code> <code>Node.js</code> <code>Supabase</code>
+      <a href="https://github.com/dan1723/estudos"><img src="img/card-estudos.jpg" alt="Caderno de estudos"></a>
+      <h3><a href="https://github.com/dan1723/estudos">Estudos</a></h3>
+      O meu caderno de estudos: cursos, iniciação científica e projetos de prática, separados dos trabalhos de clientes.
+      <ul>
+        <li><a href="https://github.com/dan1723/Sistema-de-Vendas-Web">Sistema de Vendas Web</a> (C# e ASP.NET Core)</li>
+        <li><a href="https://github.com/dan1723/SSD-Visao-Computacional">SSD na Visão Computacional</a> (artigos de IA)</li>
+      </ul>
     </td>
   </tr>
 </table>
