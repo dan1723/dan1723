@@ -51,8 +51,9 @@ Atendo Promissão e região pessoalmente e faço sites e sistemas para todo o Br
       <br><br><code>C#</code> <code>ASP.NET Core MVC</code> <code>Entity Framework</code>
     </td>
     <td width="50%" valign="top">
-      <h3>Delivery próprio para confeitaria</h3>
-      Cardápio online, pedidos sem comissão e painel com aviso sonoro de pedido novo. Case completo em breve.
+      <a href="https://github.com/dan1723/case-dn-cestas-doces"><img src="img/card-dn-cestas.jpg" alt="Case DN Cestas & Doces"></a>
+      <h3><a href="https://github.com/dan1723/case-dn-cestas-doces">Delivery próprio para confeitaria</a></h3>
+      Projeto real, no ar: cardápio online, pedidos sem comissão e painel com aviso sonoro de pedido novo. <a href="https://dn-cestas-doces.vercel.app">Ver a loja</a>.
       <br><br><code>JavaScript</code> <code>Node.js</code> <code>Supabase</code>
     </td>
   </tr>
