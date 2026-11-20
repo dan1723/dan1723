@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/__techsolution__"><img src="https://img.shields.io/badge/Siga_@__techsolution__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Siga no Instagram"></a>
+  <a href="https://www.instagram.com/__techsolution__"><img src="https://img.shields.io/badge/Siga_@____techsolution____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Siga no Instagram"></a>
   <a href="https://wa.me/5514991556986"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://techsolution-links.vercel.app"><img src="https://img.shields.io/badge/Site-C8FF1F?style=for-the-badge&logo=googlechrome&logoColor=030a26" alt="Site"></a>
   <a href="https://www.youtube.com/@techsolution.promissao"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
